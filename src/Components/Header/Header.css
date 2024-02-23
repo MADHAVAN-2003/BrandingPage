@@ -1,0 +1,60 @@
+.Header-Parent{
+    /* border: 1px solid black; */
+    height: 20vh;
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+    background-color: white;
+}
+.RaaOnline-Logo{
+    /* border: 1px solid green; */
+    height: 18vh;
+    width: 30%;
+}
+.RaaOnline-Logo > img{
+    height: 50%;
+    width: 40%;
+    margin: 5%;
+}
+.Header-sub{
+    /* border: 1px solid green; */
+    height: 18vh;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.navbar-links{
+    background-image: url("../../Assets/Rectangle\ 1.png");
+    /* border: 1px solid blue; */
+    height: 8vh;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbar-sub{
+    /* border: 1px solid blue; */
+    height: 10vh;
+    display: flex;
+    justify-content: flex-end;
+    gap: 40px ;
+    align-items: center;
+    color: #8A8A8A;
+    cursor: pointer;
+}
+.navbar-btn{
+    display: flex;
+}
+.navbar-btn > button{
+    height: 5vh;
+    width: 60px;
+    border: 2px solid #00468D;
+    background: transparent;
+    cursor: pointer;
+    color: white;
+    background-color: #00468D;
+    margin-right: 1%;
+}

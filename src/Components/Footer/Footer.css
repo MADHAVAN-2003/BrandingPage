@@ -1,0 +1,24 @@
+.footer-container{
+    margin-top: 2%;
+    border: 1px solid transparent;
+    display: block;
+    /* height: 50vh; */
+}
+.footer-content{
+    /* border: 1px solid black; */
+    height: 40vh;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #B5E5FB;
+}
+.footer-card{
+    /* border: 1px solid grey; */
+    height: 30vh;
+    width: 30%;
+    margin-top: 2% ;
+    display: flex;
+    flex-direction: column;
+    color: #00468D;
+    padding: 1%;
+}

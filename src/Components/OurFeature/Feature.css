@@ -1,0 +1,46 @@
+.feature-container{
+    /* border: 1px solid black; */
+    height: 70vh;
+    background-color:#ECF9FD;
+    padding: 2%;
+}
+.feature-card{
+    /* border: 1px solid black; */
+    height: 50vh;
+    width: 80%;
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-around;
+    padding: 2%;
+}
+.cards{
+    /* border: 1px solid black; */
+    height: 38vh;
+    width: 20%;
+    border-radius: 23px;
+}
+.mcq-cards{
+    background-image: url("../../Assets//MCQ.png");
+    position: relative;
+}
+.videolecture-cards{
+    background-image: url("../../Assets/Video\ lecture.png");
+    position: relative;
+}
+.slides-cards{
+    background-image: url("../../Assets/Slides.png");
+    position: relative;
+}
+.ebooks-cards{
+    background-image: url("../../Assets/E-books.png");
+    position: relative;
+}
+.feature-btn{
+    background-color: white;
+    height: 30px;
+    width: 40px;
+    border-radius: 50%;
+    position: absolute;
+    left: 75px;
+    top: 230px;
+}

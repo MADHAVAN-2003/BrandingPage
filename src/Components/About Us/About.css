@@ -1,0 +1,32 @@
+.about-container{
+    height: 90vh;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 2%;
+    gap: 2%;
+    background: #ECF9FD;
+}
+
+.about-content{
+    /* border: 1px solid grey; */
+    height: 85vh;
+    width: 40%;
+    padding: 1%;
+}
+.about-image{
+    /* border: 1px solid grey; */
+    height: 85vh;
+    width: 40%;
+}
+.checkbox-cate{
+    margin-top: 5%;
+
+}
+.col{
+    color: #2196F3;
+    font-family: "inter";
+    margin-bottom: 2%;
+    font-weight: 600;
+    font-size: 18px;
+
+}

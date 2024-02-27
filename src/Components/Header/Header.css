@@ -23,16 +23,19 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    align-items: flex-end;
 }
 
 .navbar-links{
     background-image: url("../../Assets/Rectangle\ 1.png");
     /* border: 1px solid blue; */
     height: 8vh;
+    width: 80%;
     position: relative;
     display: flex;
     justify-content: space-around;
     align-items: center;
+   
 }
 
 .navbar-sub{

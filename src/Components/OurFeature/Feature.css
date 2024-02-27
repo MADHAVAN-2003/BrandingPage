@@ -22,18 +22,25 @@
 .mcq-cards{
     background-image: url("../../Assets//MCQ.png");
     position: relative;
+    height: 85%;
 }
 .videolecture-cards{
     background-image: url("../../Assets/Video\ lecture.png");
     position: relative;
+    height: 85%;
+
 }
 .slides-cards{
     background-image: url("../../Assets/Slides.png");
     position: relative;
+    height: 85%;
+
 }
 .ebooks-cards{
     background-image: url("../../Assets/E-books.png");
     position: relative;
+    height: 85%;
+
 }
 .feature-btn{
     background-color: white;

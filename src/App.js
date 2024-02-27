@@ -1,4 +1,5 @@
 import About from './Components/About Us/About';
+import { Courses } from './Components/Courses/Courses';
 import Footer from './Components/Footer/Footer';
 import Header from './Components/Header/Header'
 import Home from './Components/Home';
@@ -12,11 +13,14 @@ function App() {
       <Home/>
       <About/>
       <WhyUs/>
+      <Courses/>
       <Feature/>
       <Footer/>
     </div>
     
   );
 }
+
+
 
 export default App;

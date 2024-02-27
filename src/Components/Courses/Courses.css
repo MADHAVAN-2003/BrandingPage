@@ -1,0 +1,50 @@
+.Courses-Parent{
+    /* border: 1px solid black; */
+    height: 100vh;
+    background: #ECF9FD;
+}
+.heading-text{
+    /* border: 1px solid brown; */
+    height: 10vh;
+    width: 70%;
+    margin-left: 180px;
+    color: #55ACEE;
+    font-family: 600;
+    font-family: "Roboto";
+    text-align: center;
+}
+.btn-grp{
+    /* border: 1px solid rgb(165, 42, 99); */
+    height: 10vh;
+    width: 80%;
+    margin-left: 120px;
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.buttons {
+    border: 2px solid #00468D;
+    background-color: transparent;
+    border-radius: 10px;
+    color: #00468D;
+    width: 15%;
+    font-family: "Manrope";
+    appearance: none;
+}
+
+.buttons:focus {
+    background-color: #00468D; 
+    color: white;              
+  }
+.course-card-parent{
+    /* border: 1px solid rgb(255, 130, 47); */
+    height: 50vh;
+    width: 90%;
+    margin-top: 3%;
+    margin-left: 80px;
+    display: flex; 
+    justify-content: space-between;
+  
+}
